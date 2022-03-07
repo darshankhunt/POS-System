@@ -1,0 +1,12 @@
+D:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\bin\Debug\POS_System.exe.config
+D:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\bin\Debug\POS_System.exe
+D:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\bin\Debug\POS_System.pdb
+D:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\obj\Debug\POS_System.csprojResolveAssemblyReference.cache
+D:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\obj\Debug\POS_System.exe
+D:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\obj\Debug\POS_System.pdb
+E:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\bin\Debug\POS_System.exe.config
+E:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\obj\Debug\POS_System.exe
+E:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\obj\Debug\POS_System.pdb
+E:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\bin\Debug\POS_System.exe
+E:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\bin\Debug\POS_System.pdb
+E:\GU_AIM\SW_SEM_3\DWA\Projects\POS_System\POS_System\obj\Debug\POS_System.csprojResolveAssemblyReference.cache
